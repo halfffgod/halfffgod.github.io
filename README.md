@@ -1,3 +1,3 @@
 # Nare Badalyan — Data Analytics Portfolio
 
-## visit https://halfffgod.github.io.
+## Visit: https://halfffgod.github.io
